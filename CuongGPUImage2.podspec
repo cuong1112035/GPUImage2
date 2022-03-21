@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
     s.name     = 'CuongGPUImage2'
     s.module_name   = 'CuongGPUImage2'
-    s.version  = '6.3.12'
+    s.version  = '6.3.13'
     s.license  = 'BSD'
     s.summary  = 'An open source iOS framework for GPU-based image and video processing.'
-    s.homepage = 'https://github.com/HuukSocial/GPUImage2'
+    s.homepage = 'https://github.com/cuong1112035/GPUImage2'
     s.author   = { 'Brad Larson' => 'contact@sunsetlakesoftware.com' }
-    s.source   = { :git => 'https://github.com/HuukSocial/GPUImage2.git', :tag => s.version }
+    s.source   = { :git => 'https://github.com/cuong1112035/GPUImage2.git', :tag => s.version }
 
     s.source_files = 'framework/Source/**/*.{swift,h,m}'
     s.resources = ['framework/Source/Operations/Shaders/*.{fsh}']
