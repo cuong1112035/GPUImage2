@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name     = 'CuongGPUImage2'
     s.module_name   = 'CuongGPUImage2'
-    s.version  = '6.3.11'
+    s.version  = '6.3.12'
     s.license  = 'BSD'
     s.summary  = 'An open source iOS framework for GPU-based image and video processing.'
     s.homepage = 'https://github.com/HuukSocial/GPUImage2'
